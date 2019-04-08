@@ -10,6 +10,7 @@ Page({
     openid: '',
     count: null,
     queryResult: '',
+    emptyArray: new Array(7)
   },
 
   onLoad: function (options) {
