@@ -146,7 +146,7 @@
       <div class="counter">
         <button class="minus" size="mini" type="default" bindtap="onCounterDec">
           -</button
-        ><text class="p">{{ anonymousState__temp }}</text>
+        ><text class="p">{{ count }}</text>
         <button class="plus" size="mini" type="default" bindtap="onCounterInc">
           +
         </button>

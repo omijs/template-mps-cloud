@@ -99,7 +99,7 @@
     <text class="p">3. 点击下方按钮更新计数器</text>
     <div class="counter">
       <button class="minus" size="mini" type="default" bindtap="onCounterDec">-</button>
-      <text class="p">{{ count }}</text>
+      <text class="p">{ count }</text>
       <button class="plus" size="mini" type="default" bindtap="onCounterInc">+</button>
     </div>
 
